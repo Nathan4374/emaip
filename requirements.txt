@@ -1,3 +1,4 @@
+php
 requests
 requests[socks]
 bs4
